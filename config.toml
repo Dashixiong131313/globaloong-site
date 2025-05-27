@@ -3,7 +3,9 @@ languageCode = "zh-cn"
 title = "全球头条"
 theme = "hugo-coder"
 defaultContentLanguage = "zh"
-paginate = 10
+
+[pagination]
+  pageSize = 10
 
 [params]
 author = "全球头条编辑部"

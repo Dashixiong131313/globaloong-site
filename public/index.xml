@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>全球头条</title>
+    <link>https://globaloong.pages.dev/</link>
+    <description>Recent content on 全球头条</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Tue, 27 May 2025 03:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://globaloong.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>你好，世界</title>
-      <link>https://example.org/posts/hello-world/</link>
+      <link>https://globaloong.pages.dev/posts/hello-world/</link>
       <pubDate>Tue, 27 May 2025 03:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/hello-world/</guid>
+      <guid>https://globaloong.pages.dev/posts/hello-world/</guid>
       <description>&lt;p&gt;欢迎来到《全球头条》，这是第一篇测试文章！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>你好 Hugo</title>
+      <link>https://globaloong.pages.dev/posts/hello/</link>
+      <pubDate>Tue, 27 May 2025 04:10:00 +0800</pubDate>
+      <guid>https://globaloong.pages.dev/posts/hello/</guid>
+      <description>&lt;p&gt;这是我的第一篇博客文章！&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
