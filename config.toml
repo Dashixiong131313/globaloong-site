@@ -1,0 +1,19 @@
+baseURL = "https://globaloong.pages.dev"
+languageCode = "zh-cn"
+title = "全球头条"
+theme = "hugo-coder"
+defaultContentLanguage = "zh"
+paginate = 10
+
+[params]
+author = "全球头条编辑部"
+info = "全球华人新闻资讯平台"
+description = "全球头条 - 汇聚全球新闻热点，服务全球华人"
+keywords = "全球新闻, 华人资讯, 全球头条, China news, world headlines"
+avatarurl = "images/avatar.png"
+faviconSVG = "images/favicon.svg"
+faviconICO = "images/favicon.ico"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true

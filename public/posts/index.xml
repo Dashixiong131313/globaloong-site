@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 May 2025 03:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>你好，世界</title>
+      <link>https://example.org/posts/hello-world/</link>
+      <pubDate>Tue, 27 May 2025 03:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/hello-world/</guid>
+      <description>&lt;p&gt;欢迎来到《全球头条》，这是第一篇测试文章！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
