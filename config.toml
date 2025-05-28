@@ -1,7 +1,6 @@
 baseURL = "https://globaloong.pages.dev"
 languageCode = "zh-cn"
 title = "全球头条"
-logo = "/images/logo-globaloong.png"
 theme = "hugo-coder"
 defaultContentLanguage = "zh"
 
