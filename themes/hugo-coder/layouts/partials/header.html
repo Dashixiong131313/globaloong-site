@@ -1,9 +1,11 @@
 <nav class="navigation">
   <section class="container">
     <!-- 添加 Logo 和站点标题 -->
-    <a href="/" class="navigation-title" style="display: flex; align-items: center; gap: 10px;">
-    <img src="/images/logo-globaloong.png" alt="Logo" style="height: 40px;">
-    <span>{{ .Site.Title }}</span>
+<a href="/" class="navigation-title" style="display: flex; align-items: center; gap: 10px;">
+  {{ with .Site.Params.logo }}
+    <img src="{{ . }}" alt="Logo" style="height: 40px;">
+  {{ end }}
+  <span>{{ .Site.Title }}</span>
 </a>
     <!-- 原始导航按钮 -->
     <input type="checkbox" id="menu-toggle" />
