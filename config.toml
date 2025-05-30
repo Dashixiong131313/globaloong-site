@@ -13,3 +13,6 @@ defaultContentLanguage = "zh"
   description = "全球头条 GlobalOong 新闻平台"
   logo = "/images/logo-globaloong.png"
   publishDir = "dist"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
