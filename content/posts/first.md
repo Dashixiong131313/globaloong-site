@@ -1,9 +1,9 @@
 +++
-title = "欢迎访问"
-date = 2024-01-01
+title = "全球热点测试文章"
+date = "2025-05-30"
 categories = ["全球热点"]
+tags = ["测试", "GlobalOong"]
 +++
 
-欢迎访问 GlobalOong 中文新闻平台！🎉
-
+这里是正文内容。
 

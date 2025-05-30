@@ -1,24 +1,12 @@
 {{ define "main" }}
-<header style="text-align: center; padding: 2rem 0;">
-  <img src="/images/logo-globaloong.png" alt="GlobalOong Logo" style="height: 80px;">
-  <h1>全球头条 GlobalOong</h1>
-  <p>为全球华人打造的多语言新闻聚合平台</p>
-</header>
-
-<nav style="text-align: center; margin-bottom: 2rem;">
-  <a href="/zh-cn/hot">全球热点</a> |
-  <a href="/zh-cn/finance">全球财经</a> |
-  <a href="/zh-cn/crypto">数字货币</a> |
-  <a href="/zh-cn/sports">体育</a> |
-  <a href="/zh-cn/entertainment">全球娱乐</a> |
-  <a href="/zh-cn/chinese">全球华人</a>
-</nav>
-
-<section class="content">
-  <p style="text-align: center;">最优质的中文资讯...</p>
-</section>
-
-<footer style="text-align: center; padding: 2rem 0; font-size: 0.8rem; color: #999;">
-  &copy; 2025 全球头条 GlobalOong
-</footer>
+<main style="max-width: 700px; margin: 3rem auto; font-family: sans-serif;">
+  <h1 style="text-align: center;">{{ .Title }}</h1>
+  <ul>
+    {{ range .Pages }}
+      <li style="margin: 1rem 0;">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a> - {{ .Date.Format "2006-01-02" }}
+      </li>
+    {{ end }}
+  </ul>
+</main>
 {{ end }}
