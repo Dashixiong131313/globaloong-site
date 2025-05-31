@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GlobalOong on 全球头条</title>
-    <link>https://dashixiong131313.github.io/globaloong/tags/globaloong/</link>
+    <link>https://dashixiong131313.github.io/tags/globaloong/</link>
     <description>Recent content in GlobalOong on 全球头条</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dashixiong131313.github.io/globaloong/tags/globaloong/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dashixiong131313.github.io/tags/globaloong/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>全球热点测试文章</title>
-      <link>https://dashixiong131313.github.io/globaloong/posts/first/</link>
+      <link>https://dashixiong131313.github.io/posts/first/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://dashixiong131313.github.io/globaloong/posts/first/</guid>
+      <guid>https://dashixiong131313.github.io/posts/first/</guid>
       <description>&lt;p&gt;这里是正文内容。&lt;/p&gt;</description>
     </item>
   </channel>

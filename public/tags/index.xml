@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 全球头条</title>
-    <link>https://dashixiong131313.github.io/globaloong/tags/</link>
+    <link>https://dashixiong131313.github.io/tags/</link>
     <description>Recent content in Tags on 全球头条</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dashixiong131313.github.io/globaloong/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dashixiong131313.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GlobalOong</title>
-      <link>https://dashixiong131313.github.io/globaloong/tags/globaloong/</link>
+      <link>https://dashixiong131313.github.io/tags/globaloong/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://dashixiong131313.github.io/globaloong/tags/globaloong/</guid>
+      <guid>https://dashixiong131313.github.io/tags/globaloong/</guid>
       <description></description>
     </item>
     <item>
       <title>测试</title>
-      <link>https://dashixiong131313.github.io/globaloong/tags/%E6%B5%8B%E8%AF%95/</link>
+      <link>https://dashixiong131313.github.io/tags/%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://dashixiong131313.github.io/globaloong/tags/%E6%B5%8B%E8%AF%95/</guid>
+      <guid>https://dashixiong131313.github.io/tags/%E6%B5%8B%E8%AF%95/</guid>
       <description></description>
     </item>
   </channel>

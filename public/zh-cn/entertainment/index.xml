@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>全球娱乐 on 全球头条</title>
-    <link>https://dashixiong131313.github.io/globaloong/zh-cn/entertainment/</link>
+    <link>https://dashixiong131313.github.io/zh-cn/entertainment/</link>
     <description>Recent content in 全球娱乐 on 全球头条</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <atom:link href="https://dashixiong131313.github.io/globaloong/zh-cn/entertainment/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dashixiong131313.github.io/zh-cn/entertainment/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
