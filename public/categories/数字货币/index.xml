@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>数字货币 on 全球头条</title>
+    <link>https://dashixiong131313.github.io/globaloong/categories/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/</link>
+    <description>Recent content in 数字货币 on 全球头条</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dashixiong131313.github.io/globaloong/categories/%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://dashixiong131313.github.io/globaloong/posts/hello-world/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dashixiong131313.github.io/globaloong/posts/hello-world/</guid>
+      <description>&lt;p&gt;欢迎来到《全球头条》，这是第一篇测试文章！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

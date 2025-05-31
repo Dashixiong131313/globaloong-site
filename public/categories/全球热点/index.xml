@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>全球热点 on 全球头条</title>
+    <link>https://dashixiong131313.github.io/globaloong/categories/%E5%85%A8%E7%90%83%E7%83%AD%E7%82%B9/</link>
+    <description>Recent content in 全球热点 on 全球头条</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dashixiong131313.github.io/globaloong/categories/%E5%85%A8%E7%90%83%E7%83%AD%E7%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>全球热点测试文章</title>
+      <link>https://dashixiong131313.github.io/globaloong/posts/first/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://dashixiong131313.github.io/globaloong/posts/first/</guid>
+      <description>&lt;p&gt;这里是正文内容。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

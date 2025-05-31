@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>全球财经 on 全球头条</title>
+    <link>https://dashixiong131313.github.io/globaloong/categories/%E5%85%A8%E7%90%83%E8%B4%A2%E7%BB%8F/</link>
+    <description>Recent content in 全球财经 on 全球头条</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 30 May 2025 02:50:00 +0000</lastBuildDate>
+    <atom:link href="https://dashixiong131313.github.io/globaloong/categories/%E5%85%A8%E7%90%83%E8%B4%A2%E7%BB%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇财经文章</title>
+      <link>https://dashixiong131313.github.io/globaloong/posts/finance/</link>
+      <pubDate>Fri, 30 May 2025 02:50:00 +0000</pubDate>
+      <guid>https://dashixiong131313.github.io/globaloong/posts/finance/</guid>
+      <description>&lt;p&gt;这是第一篇属于“全球财经”分类的内容。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>你好世界</title>
+      <link>https://dashixiong131313.github.io/globaloong/posts/hello/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dashixiong131313.github.io/globaloong/posts/hello/</guid>
+      <description>&lt;p&gt;这是我的第一篇博客文章！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
